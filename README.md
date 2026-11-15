@@ -94,7 +94,6 @@ online-retail-customer-analytics/
 |-- figures/
 |-- results/
 |-- documentation/
-|-- report/
 `-- video/
 ```
 
